@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hmliste", "hmliste.csproj", "{6BDEDE20-B1B8-4CFA-AC1E-C90E7FA92BB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BDEDE20-B1B8-4CFA-AC1E-C90E7FA92BB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BDEDE20-B1B8-4CFA-AC1E-C90E7FA92BB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BDEDE20-B1B8-4CFA-AC1E-C90E7FA92BB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BDEDE20-B1B8-4CFA-AC1E-C90E7FA92BB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3305315-9CF8-4A0D-A168-87A854F3559B}
+	EndGlobalSection
+EndGlobal
